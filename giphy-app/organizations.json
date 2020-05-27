@@ -1,0 +1,2024 @@
+{
+  "organizations": [
+    {
+      "id": "693309",
+      "name": "Gamma",
+      "created_at": 1502456093963,
+      "updated_at": 1502463342857,
+      "ml_updated_at": { "inreachventures": 1502463338721 },
+      "description":
+        "Gamma is a rapidly growing, technology based, provider of communications services to the UK business market. Gammaâ€™s services, such as Cloud PBX, Inbound Call Control Services and SIP Trunking, are designed to meet the increasingly complex voice, data and mobility requirements of businesses, through the exploitation of its know-how and own intellectual property.\r\n\r\nGamma also provides services such as business-grade broadband, Ethernet and mobile and data services and, as a consequence of its history, has a substantial voice service capability, completing Gammaâ€™s comprehensive range of communication services.",
+      "short_description":
+        "Gamma is a leading supplier of voice, data and mobile products and services in the UK.",
+      "founded_on": 1502454680000,
+      "primary_role": "company",
+      "is_closed": false,
+      "homepage_url": "http://www.gamma.co.uk",
+      "role_company": true,
+      "total_funding_usd": 0,
+      "number_of_investments": 0,
+      "image_url":
+        "http://public.crunchbase.com/t_api_images/v1502454665/seozli1x8mxeny6mwayf.png",
+      "source_refs": {
+        "CRUNCHBASE": ["gamma"],
+        "OPENGRAPH": ["598dbd4607efcb0b00a711d3"]
+      },
+      "locations": [
+        {
+          "latitude": 51.3995101,
+          "longitude": -1.2997858,
+          "city": "Newbury",
+          "country": "United Kingdom",
+          "name": "Headquarters",
+          "continent": "Europe"
+        }
+      ],
+      "domain": "gamma.co.uk",
+      "trends": {
+        "trend-organization-magnitude": 0.872,
+        "trend-person-beta": 0.5,
+        "trend": 0.8385,
+        "trend-person-magnitude": 0.997,
+        "trend-organization-beta": 1.0
+      },
+      "person_ids": [
+        "693430",
+        "693310",
+        "693420",
+        "693431",
+        "693410",
+        "693421",
+        "693422",
+        "693412",
+        "693423",
+        "693424",
+        "693413",
+        "693414",
+        "693425",
+        "693415",
+        "693426",
+        "693416",
+        "693427",
+        "693417",
+        "693429",
+        "693418",
+        "693419"
+      ],
+      "origin": "CRUNCHBASE",
+      "tags": ["Service Industry"],
+      "predictions": {
+        "inreachventures": {
+          "never": 0.449676966751517,
+          "contact": 0.2965029779478164,
+          "not_now": 0.2538200553006667
+        }
+      },
+      "raw_predictions": {
+        "inreachventures": {
+          "never": 0.5620974238361544,
+          "contact": 0.37062952382951564,
+          "not_now": 0.31727575515624
+        }
+      },
+      "classification": { "inreachventures": "NA" },
+      "requires_more_info": false,
+      "is_complete": true,
+      "highlights": [
+        "education",
+        "keywords",
+        "trend",
+        "serial_entrepreneur",
+        "experience"
+      ]
+    },
+    {
+      "id": "693305",
+      "name": "Aker BioMarine",
+      "created_at": 1502456090282,
+      "updated_at": 1502463253152,
+      "ml_updated_at": { "inreachventures": 1502456587985 },
+      "description":
+        "Aker BioMarine is a biotech innovator and Antarctic krill -harvesting company, dedicated to improving human and planetary health. The company develops krill-based ingredients for nutraceutical, aquaculture, and animal feed applications. The companyâ€™s fully transparent value chain stretches from sustainable krill harvesting in pristine Antarctic waters through its Montevideo logistics hub, Houston production plant, and all the way to customers around the world.",
+      "short_description":
+        "Aker BioMarine is a biotech innovator and Antarctic krill -harvesting company.",
+      "founded_on": 1502454481000,
+      "primary_role": "company",
+      "is_closed": false,
+      "homepage_url": "http://www.akerbiomarine.com/",
+      "num_employees_max": 500,
+      "num_employees_min": 251,
+      "total_funding_usd": 0,
+      "number_of_investments": 0,
+      "image_url":
+        "http://public.crunchbase.com/t_api_images/v1502454456/oyvpld1atafay9gz0lnp.png",
+      "source_refs": {
+        "CRUNCHBASE": ["aker-biomarine"],
+        "OPENGRAPH": ["598da91db3c8780b00808c50"]
+      },
+      "locations": [
+        {
+          "latitude": 59.90496539999999,
+          "longitude": 10.6261024,
+          "city": "Oslo",
+          "country": "Norway",
+          "name": "Headquarters",
+          "street1": "OksenÃ¸yveien 10",
+          "continent": "Europe"
+        }
+      ],
+      "domain": "akerbiomarine.com",
+      "trends": {
+        "trend-organization-magnitude": 0.648,
+        "trend-person-beta": 0.5,
+        "trend": 0.7775,
+        "trend-person-magnitude": 0.991,
+        "trend-organization-beta": 0.993
+      },
+      "person_ids": ["693311", "693312", "693314", "693315"],
+      "origin": "CRUNCHBASE",
+      "tags": ["Biotechnology"],
+      "user_decisions": {
+        "inreachventures": {
+          "adam@inreachventures.com": {
+            "id": "693305-inreachventures-adam@inreachventures.com",
+            "user_id": "adam@inreachventures.com",
+            "client": "inreachventures",
+            "organization_id": "693305",
+            "state": "never",
+            "created_at": 1502463253120,
+            "updated_at": 1502463253120,
+            "source": "dig",
+            "is_final": true
+          }
+        }
+      },
+      "predictions": {
+        "inreachventures": {
+          "never": 0.8804032391923625,
+          "contact": 0.05408290389929604,
+          "not_now": 0.0655138569083415
+        }
+      },
+      "raw_predictions": {
+        "inreachventures": {
+          "never": 0.9066907528473162,
+          "contact": 0.05569773788838551,
+          "not_now": 0.0674700019239443
+        }
+      },
+      "classification": { "inreachventures": "never" },
+      "requires_more_info": false,
+      "is_complete": true,
+      "highlights": ["education", "keywords", "trend", "serial_entrepreneur"]
+    },
+    {
+      "id": "693290",
+      "name": "AppCheck",
+      "created_at": 1502456057657,
+      "updated_at": 1502456594522,
+      "ml_updated_at": { "inreachventures": 1502456587985 },
+      "description":
+        "Automate the discovery of security flaws within your network perimeter quicker, easier and more accurately with the AppCheck NG scanning tool.",
+      "short_description":
+        "Automate the discovery of web application security flaws more accurately with the AppCheck.",
+      "founded_on": 1502452770000,
+      "primary_role": "company",
+      "homepage_url": "http://appcheck-ng.com",
+      "role_company": true,
+      "total_funding_usd": 0,
+      "number_of_investments": 0,
+      "image_url":
+        "http://public.crunchbase.com/t_api_images/v1502452625/aqla1qvy6yfvlxnb7am3.png",
+      "source_refs": {
+        "CRUNCHBASE": ["appcheck"],
+        "OPENGRAPH": ["598da8feb3c8780b00808c4d"]
+      },
+      "locations": [
+        {
+          "latitude": 53.7427348,
+          "longitude": -1.6418891,
+          "city": "Birstall",
+          "country": "United Kingdom",
+          "name": "Headquarters",
+          "street1": "Unit 1 Centre 27 Business Park Bankwood Way",
+          "postal_code": "WF17 9TB",
+          "continent": "Europe"
+        }
+      ],
+      "domain": "appcheck-ng.com",
+      "trends": {
+        "trend-organization-magnitude": 0.552,
+        "trend-person-beta": 0.5,
+        "trend": 0.64225,
+        "trend-person-magnitude": 0.73,
+        "trend-organization-beta": 0.831
+      },
+      "person_ids": ["693291"],
+      "origin": "CRUNCHBASE",
+      "tags": ["Infrastructure"],
+      "predictions": {
+        "inreachventures": {
+          "never": 0.16467622548146796,
+          "contact": 0.18588597044571586,
+          "not_now": 0.6494378040728163
+        }
+      },
+      "raw_predictions": {
+        "inreachventures": {
+          "never": 0.14619715170862274,
+          "contact": 0.16502685401187536,
+          "not_now": 0.5765614124914054
+        }
+      },
+      "classification": { "inreachventures": "not_now" },
+      "requires_more_info": false,
+      "is_complete": true,
+      "highlights": ["experience"]
+    },
+    {
+      "id": "693234",
+      "name": "CaFE",
+      "created_at": 1502452507050,
+      "updated_at": 1502458388229,
+      "ml_updated_at": { "inreachventures": 1502458387316 },
+      "description":
+        "CaFE helps accountants and bookkeepers monitor their clientsâ€™ cash position by using data in Xero to highlight those facing an impending cash shortfall. Avoiding action can then be taken before it becomes critical.",
+      "short_description":
+        "CaFE helps accountants and bookkeepers monitor their clientsâ€™ cash position.",
+      "founded_on": 1502450745000,
+      "primary_role": "company",
+      "is_closed": false,
+      "homepage_url": "https://www.cashflowcafe.co.uk",
+      "num_employees_max": 10,
+      "num_employees_min": 1,
+      "total_funding_usd": -1000,
+      "number_of_investments": 0,
+      "image_url":
+        "http://public.crunchbase.com/t_api_images/v1502450389/joeswdadigip0p8rjlmf.png",
+      "source_refs": {
+        "CRUNCHBASE": ["cafe-2"],
+        "OPENGRAPH": ["598d9b3007efcb0b00a711b4"]
+      },
+      "locations": [
+        {
+          "latitude": 51.5181986,
+          "longitude": -0.0904065,
+          "city": "London",
+          "country": "United Kingdom",
+          "name": "Headquarters",
+          "street1": "7th Floor",
+          "street2": "1 Fore Street",
+          "postal_code": "EC2Y 9DT",
+          "continent": "Europe"
+        }
+      ],
+      "domain": "cashflowcafe.co.uk",
+      "trends": {
+        "trend-organization-magnitude": 0.02,
+        "trend-person-beta": 0.5,
+        "trend": 0.46525,
+        "trend-person-magnitude": 0.837,
+        "trend-organization-beta": 0.5
+      },
+      "person_ids": ["693334", "693328", "693329", "693362"],
+      "origin": "CRUNCHBASE",
+      "predictions": {
+        "inreachventures": {
+          "never": 0.17052837727611322,
+          "contact": 0.2120849990137979,
+          "not_now": 0.6173866237100889
+        }
+      },
+      "raw_predictions": {
+        "inreachventures": {
+          "never": 0.16751379929965962,
+          "contact": 0.20833578860450647,
+          "not_now": 0.6064725450768303
+        }
+      },
+      "classification": { "inreachventures": "not_now" },
+      "requires_more_info": false,
+      "is_complete": true,
+      "highlights": ["trend", "serial_entrepreneur", "experience"]
+    },
+    {
+      "id": "693166",
+      "name": "Jazz Hipster",
+      "created_at": 1502449493606,
+      "updated_at": 1502451145484,
+      "ml_updated_at": { "inreachventures": 1502450289960 },
+      "description":
+        "Jazz Hipster Corporation is an electrical and electronic manufacturing company based out of Calle Laguna del Marquesado NÂª 19, Nave 16 Edificio Adriana 1Âª Planta, PolÃ­gono Industrial La Resina (Villaverde), Madrid, Community of Madrid, Spain.",
+      "short_description":
+        "Jazz Hipster Corporation is an electrical and electronic manufacturing company.",
+      "founded_on": 1502447625000,
+      "primary_role": "company",
+      "is_closed": false,
+      "homepage_url": "http://www.jazzspeakers.com/",
+      "num_employees_max": 50,
+      "num_employees_min": 11,
+      "total_funding_usd": 0,
+      "number_of_investments": 0,
+      "image_url":
+        "http://public.crunchbase.com/t_api_images/v1502447320/q1t3ykcar4pjwa9bdqno.png",
+      "source_refs": {
+        "CRUNCHBASE": ["jazz-hipster"],
+        "OPENGRAPH": ["598d8f65b3c8780b00808c2a"]
+      },
+      "locations": [
+        {
+          "latitude": 40.53617,
+          "longitude": -3.639875,
+          "city": "Madrid",
+          "country": "Spain",
+          "name": "Headquarters",
+          "continent": "Europe"
+        },
+        { "country": "Taiwan", "continent": "Asia" }
+      ],
+      "domain": "jazzspeakers.com",
+      "trends": {
+        "trend-organization-magnitude": 0.514,
+        "trend-person-beta": 0.5,
+        "trend": 0.41100000000000003,
+        "trend-person-magnitude": 0.0,
+        "trend-organization-beta": 0.66
+      },
+      "person_ids": ["693207", "693208"],
+      "origin": "CRUNCHBASE",
+      "tags": ["Electronics", "Manufacturing"],
+      "user_decisions": {
+        "inreachventures": {
+          "adam@inreachventures.com": {
+            "id": "693166-inreachventures-adam@inreachventures.com",
+            "user_id": "adam@inreachventures.com",
+            "client": "inreachventures",
+            "organization_id": "693166",
+            "state": "never",
+            "created_at": 1502451144853,
+            "updated_at": 1502451144853,
+            "source": "dig",
+            "is_final": true
+          },
+          "ben@inreachventures.com": {
+            "id": "693166-inreachventures-ben@inreachventures.com",
+            "user_id": "ben@inreachventures.com",
+            "client": "inreachventures",
+            "organization_id": "693166",
+            "state": "never",
+            "created_at": 1502451138167,
+            "updated_at": 1502451138167,
+            "source": "dig",
+            "is_final": true
+          }
+        }
+      },
+      "predictions": {
+        "inreachventures": {
+          "never": 0.9271984855326363,
+          "contact": 0.035306060461470404,
+          "not_now": 0.03749545400589335
+        }
+      },
+      "raw_predictions": {
+        "inreachventures": {
+          "never": 0.9416386894410731,
+          "contact": 0.035855917606647206,
+          "not_now": 0.03807940880082971
+        }
+      },
+      "classification": { "inreachventures": "never" },
+      "requires_more_info": false,
+      "is_complete": true
+    },
+    {
+      "id": "693198",
+      "name": "Prosperon Networks",
+      "created_at": 1502449552994,
+      "updated_at": 1502454814669,
+      "ml_updated_at": { "inreachventures": 1502454803753 },
+      "description":
+        "Prosperon Networks Limited was founded in 2006 and is growing profitably year on year. One of the key aspects of our business is our people. Dedication and success are recognised throughout the company and everyone works hard to ensure customer satisfaction. Our divisions are made up of highly motivated and experienced individuals who are focused on providing insight and support whilst maintaining the highest level of service.",
+      "short_description":
+        "Prosperon Networks is a reseller and provider of consultancy, installation and training services for Network Monitoring.",
+      "founded_on": 1502446187000,
+      "primary_role": "company",
+      "is_closed": false,
+      "homepage_url": "http://www.prosperon.co.uk",
+      "role_company": true,
+      "total_funding_usd": 0,
+      "number_of_investments": 0,
+      "image_url":
+        "http://public.crunchbase.com/t_api_images/v1502446131/vds5wjzmbjdyg2iypvdw.png",
+      "source_refs": {
+        "CRUNCHBASE": ["prosperon-networks"],
+        "OPENGRAPH": ["598d8f96b3c8780b00808c2c"]
+      },
+      "locations": [
+        {
+          "latitude": 50.8412525,
+          "longitude": -0.411073,
+          "city": "Worthing",
+          "country": "United Kingdom",
+          "name": "Headquarters",
+          "continent": "Europe"
+        }
+      ],
+      "domain": "prosperon.co.uk",
+      "trends": {
+        "trend-organization-magnitude": 0.0,
+        "trend-person-beta": 0.5,
+        "trend": 0.25,
+        "trend-person-magnitude": 0.0,
+        "trend-organization-beta": 0.5
+      },
+      "person_ids": ["693199", "693204"],
+      "origin": "CRUNCHBASE",
+      "tags": ["Information Technology"],
+      "user_decisions": {
+        "inreachventures": {
+          "adam@inreachventures.com": {
+            "id": "693198-inreachventures-adam@inreachventures.com",
+            "user_id": "adam@inreachventures.com",
+            "client": "inreachventures",
+            "organization_id": "693198",
+            "state": "never",
+            "created_at": 1502451147780,
+            "updated_at": 1502451147780,
+            "source": "dig",
+            "is_final": true
+          },
+          "ben@inreachventures.com": {
+            "id": "693198-inreachventures-ben@inreachventures.com",
+            "user_id": "ben@inreachventures.com",
+            "client": "inreachventures",
+            "organization_id": "693198",
+            "state": "never",
+            "created_at": 1502451183579,
+            "updated_at": 1502451183579,
+            "source": "dig",
+            "is_final": true
+          }
+        }
+      },
+      "predictions": {
+        "inreachventures": {
+          "never": 0.97821606763635,
+          "contact": 0.0056622512789555,
+          "not_now": 0.01612168108469449
+        }
+      },
+      "raw_predictions": {
+        "inreachventures": {
+          "never": 0.9757249147595521,
+          "contact": 0.0056478316287070585,
+          "not_now": 0.016080625152838864
+        }
+      },
+      "classification": { "inreachventures": "never" },
+      "requires_more_info": false,
+      "is_complete": true,
+      "highlights": ["trend", "serial_entrepreneur"]
+    },
+    {
+      "id": "693125",
+      "name": "Industrial Data Space",
+      "created_at": 1502445924836,
+      "updated_at": 1502448515005,
+      "ml_updated_at": { "inreachventures": 1502448503687 },
+      "description":
+        "For companies, data is only worthwhile if it can be processed. At the same time, a new, comprehensive and generally accepted handling practice has to be anchored in the way data is utilised.\n\nIndustrial Data Space is a virtual data space which supports the secure exchange and simple linking of data in business ecosystems on the basis of standards and by using collaborative governance models.\n\nData is only exchanged if it is requested from trustworthy certified partners. The data owner â€“ i.e. the company â€“ determines who is allowed to use the data in what way. As a result, the partners of one supply chain have joint access to certain data by mutual consent so that they can start something new, develop new business models, design their own processes more efficiently or initiate additional added value processes elsewhere, either alone or together.",
+      "short_description":
+        "Industrial Data Space is a peer-to-peer network, a virtual data space that supports the secure exchange and the simple linking of data.",
+      "founded_on": 1502444042000,
+      "primary_role": "company",
+      "is_closed": false,
+      "homepage_url": "http://www.industrialdataspace.org",
+      "total_funding_usd": 0,
+      "number_of_investments": 0,
+      "image_url":
+        "http://public.crunchbase.com/t_api_images/v1502443945/ojdoat7vzlxe5mfvrpui.png",
+      "source_refs": {
+        "CRUNCHBASE": ["industrial-data-space"],
+        "OPENGRAPH": ["598d816fb3c8780b00808c17"]
+      },
+      "locations": [
+        {
+          "latitude": 51.4888106,
+          "longitude": 7.4049856,
+          "city": "Dortmund",
+          "country": "Germany",
+          "name": "Headquarters",
+          "street1": "Joseph-von-Fraunhofer-Str. 2-4",
+          "postal_code": "44227",
+          "continent": "Europe"
+        }
+      ],
+      "domain": "industrialdataspace.org",
+      "trends": {
+        "trend-organization-magnitude": 0.432,
+        "trend-person-beta": 0.5,
+        "trend": 0.6657500000000001,
+        "trend-person-magnitude": 0.968,
+        "trend-organization-beta": 0.801
+      },
+      "person_ids": ["693148", "693149"],
+      "origin": "CRUNCHBASE",
+      "tags": ["Peer to Peer"],
+      "predictions": {
+        "inreachventures": {
+          "never": 0.056426794560594976,
+          "contact": 0.43222530731159836,
+          "not_now": 0.5113478981278067
+        }
+      },
+      "raw_predictions": {
+        "inreachventures": {
+          "never": 0.0568896082640989,
+          "contact": 0.43577042797249615,
+          "not_now": 0.515541983869419
+        }
+      },
+      "classification": { "inreachventures": "NA" },
+      "requires_more_info": false,
+      "is_complete": true,
+      "highlights": ["trend", "serial_entrepreneur"]
+    },
+    {
+      "id": "693028",
+      "name": "Futuryng",
+      "created_at": 1502442276380,
+      "updated_at": 1502446266579,
+      "ml_updated_at": { "inreachventures": 1502446257576 },
+      "description":
+        "Futuryng is the first IoT Ecosystem focused entirely on cutting edge technologies for the Industry 4.0. The company developed an innovative platform (Futuryng 4.0) that shapes the clientâ€™s company as a unique digital entity and connects all of its components, allowing to expedite adoption of technologies for the Industrial Internet. Futuryng 4.0 enables its clients to access the most innovative technologies, thereby increasing their competitiveness in the markets.",
+      "short_description":
+        "Futuryng is an integrated platform that enables technologies connected in an ecosystem to develop, deploy, and manage end-to- end apps.",
+      "founded_on": 1502439931000,
+      "primary_role": "company",
+      "is_closed": false,
+      "homepage_url": "http://futuryng.com",
+      "role_company": true,
+      "total_funding_usd": 0,
+      "number_of_investments": 0,
+      "image_url":
+        "http://public.crunchbase.com/t_api_images/v1502439828/fpphnsgk6cdaraberlkl.png",
+      "source_refs": {
+        "CRUNCHBASE": ["futuryng"],
+        "OPENGRAPH": ["598d797607efcb0b00a71189"]
+      },
+      "locations": [
+        {
+          "latitude": 41.4661119,
+          "longitude": 12.8934201,
+          "city": "Latina",
+          "country": "Italy",
+          "name": "Headquarters",
+          "street1": "Via Ufente, 20",
+          "postal_code": "04100",
+          "continent": "Europe"
+        }
+      ],
+      "domain": "futuryng.com",
+      "trends": {
+        "trend-organization-magnitude": 0.592,
+        "trend-person-beta": 0.5,
+        "trend": 0.51225,
+        "trend-person-magnitude": 0.0,
+        "trend-organization-beta": 0.983
+      },
+      "person_ids": ["693094", "693095", "693096"],
+      "origin": "CRUNCHBASE",
+      "tags": ["Industrial", "Internet of Things"],
+      "predictions": {
+        "inreachventures": {
+          "never": 0.1366257524414016,
+          "contact": 0.37160896139778826,
+          "not_now": 0.4917652861608102
+        }
+      },
+      "raw_predictions": {
+        "inreachventures": {
+          "never": 0.1427364969258312,
+          "contact": 0.38822960114284727,
+          "not_now": 0.5137600562267974
+        }
+      },
+      "classification": { "inreachventures": "NA" },
+      "requires_more_info": false,
+      "is_complete": true,
+      "highlights": ["trend", "experience"]
+    },
+    {
+      "id": "693024",
+      "name": "Foundry",
+      "created_at": 1502442274632,
+      "updated_at": 1502463371771,
+      "ml_updated_at": { "inreachventures": 1502446257576 },
+      "description":
+        "Foundry is a global developer of computer graphics, visual effects and 3D design software for the design, visualization and entertainment industries.",
+      "short_description":
+        "Foundry is a global developer of computer graphics, visual effects and 3D design software for the design, visualization industries.",
+      "founded_on": 1502439824000,
+      "primary_role": "company",
+      "homepage_url": "http://foundry.com/",
+      "role_company": true,
+      "total_funding_usd": 0,
+      "number_of_investments": 0,
+      "image_url":
+        "http://public.crunchbase.com/t_api_images/v1502439706/ilqrm7sgxo7ojvs432qx.png",
+      "source_refs": {
+        "CRUNCHBASE": ["foundry"],
+        "OPENGRAPH": ["598d7325b3c8780b00808c06"]
+      },
+      "locations": [
+        {
+          "latitude": 51.5070095,
+          "longitude": -0.1295775,
+          "city": "London",
+          "country": "United Kingdom",
+          "name": "Headquarters",
+          "continent": "Europe"
+        }
+      ],
+      "domain": "foundry.com",
+      "trends": {
+        "trend-organization-magnitude": 0.983,
+        "trend-person-beta": 0.5,
+        "trend": 0.8652500000000001,
+        "trend-person-magnitude": 0.982,
+        "trend-organization-beta": 1.0
+      },
+      "person_ids": [
+        "693044",
+        "693034",
+        "693045",
+        "693035",
+        "693025",
+        "693036",
+        "693037",
+        "693038",
+        "693039",
+        "693040",
+        "693041",
+        "693042",
+        "693043"
+      ],
+      "origin": "CRUNCHBASE",
+      "tags": ["3D Printing"],
+      "user_decisions": {
+        "inreachventures": {
+          "adam@inreachventures.com": {
+            "id": "693024-inreachventures-adam@inreachventures.com",
+            "user_id": "adam@inreachventures.com",
+            "client": "inreachventures",
+            "organization_id": "693024",
+            "state": "not_now",
+            "created_at": 1502463371751,
+            "updated_at": 1502463371751,
+            "source": "dig",
+            "is_final": false
+          }
+        }
+      },
+      "predictions": {
+        "inreachventures": {
+          "never": 0.648788157975945,
+          "contact": 0.17758832434792665,
+          "not_now": 0.1736235176761283
+        }
+      },
+      "raw_predictions": {
+        "inreachventures": {
+          "never": 0.7264566985425513,
+          "contact": 0.1988480002594034,
+          "not_now": 0.19440855368544036
+        }
+      },
+      "classification": { "inreachventures": "never" },
+      "requires_more_info": false,
+      "is_complete": true,
+      "highlights": [
+        "education",
+        "keywords",
+        "trend",
+        "serial_entrepreneur",
+        "experience"
+      ]
+    },
+    {
+      "id": "693277",
+      "name": "BitLaboratory",
+      "created_at": 1502455862901,
+      "updated_at": 1502463410779,
+      "ml_updated_at": { "inreachventures": 1502456135374 },
+      "description":
+        "Ð’ÐµÐ± Ð±ÑŽÑ€Ð¾ BitLab â€” Ñ€Ð°Ð·Ñ€Ð°Ð±Ð¾Ñ‚ÐºÐ° ÑÐ°Ð¹Ñ‚Ð¾Ð² Ð»ÑŽÐ±Ð¾Ð¹ ÑÐ»Ð¾Ð¶Ð½Ð¾ÑÑ‚Ð¸. â˜Ž +38 (066) 000 11 65",
+      "short_description": "bit more than u ask for",
+      "founded_on": 1502437072000,
+      "homepage_url": "http://bit-laboratory.com/",
+      "num_employees_max": 10,
+      "num_employees_min": 1,
+      "image_url":
+        "https://d1qb2nb5cznatu.cloudfront.net/startups/i/4498088-ffbed60dcfe68c5aac19e8d97cf9e661-medium_jpg.jpg?buster=1502450956",
+      "source_refs": {
+        "OPENGRAPH": ["598da839b3c8780b00808c4a"],
+        "ANGELLIST": ["4498088"]
+      },
+      "locations": [
+        { "city": "Kharkiv", "country": "Ukraine", "continent": "Europe" }
+      ],
+      "domain": "bit-laboratory.com",
+      "trends": {
+        "trend-organization-magnitude": 0.262,
+        "trend-person-beta": 0.0,
+        "trend": 0.187,
+        "trend-person-magnitude": 0.0,
+        "trend-organization-beta": 0.48
+      },
+      "person_ids": ["693278"],
+      "origin": "ANGELLIST",
+      "user_decisions": {
+        "inreachventures": {
+          "adam@inreachventures.com": {
+            "id": "693277-inreachventures-adam@inreachventures.com",
+            "user_id": "adam@inreachventures.com",
+            "client": "inreachventures",
+            "organization_id": "693277",
+            "state": "never",
+            "created_at": 1502463410766,
+            "updated_at": 1502463410766,
+            "source": "dig",
+            "is_final": true
+          }
+        }
+      },
+      "predictions": {
+        "inreachventures": {
+          "never": 0.9804810136594008,
+          "contact": 0.0012730934206215438,
+          "not_now": 0.018245892919977684
+        }
+      },
+      "raw_predictions": {
+        "inreachventures": {
+          "never": 0.9796180187499046,
+          "contact": 0.0012719728755768121,
+          "not_now": 0.018229833340557187
+        }
+      },
+      "classification": { "inreachventures": "never" },
+      "requires_more_info": false,
+      "is_complete": true
+    },
+    {
+      "id": "692829",
+      "name": "Practigame",
+      "created_at": 1502435094261,
+      "updated_at": 1502446720601,
+      "ml_updated_at": { "inreachventures": 1502446708504 },
+      "description":
+        "Practigameâ€™s solutions provides efficient, safe and cost effective learning for healthcare professionals. We integrated clinical reasoning process into game mechanics, making an engaging learning experience. Unlike other games for nurses and doctors, our product lets you fully customize learning content to fit specific needs or procedures.",
+      "short_description":
+        "Classroom lecturing is expensive and learning methods need improvement.",
+      "founded_on": 1502434136000,
+      "primary_role": "company",
+      "is_closed": false,
+      "homepage_url": "https://practigame.com/",
+      "role_company": true,
+      "total_funding_usd": 0,
+      "number_of_investments": 0,
+      "image_url":
+        "http://public.crunchbase.com/t_api_images/v1502434115/cvqiw17upxtj1yaw0yf9.png",
+      "source_refs": {
+        "CRUNCHBASE": ["practigame"],
+        "OPENGRAPH": ["598d6adbb3c8780b00808c00"]
+      },
+      "locations": [
+        {
+          "city": "Helsinki",
+          "country": "Finland",
+          "name": "Headquarters",
+          "street1": "Museokatu 44 D 114,",
+          "postal_code": "00100",
+          "continent": "Europe"
+        }
+      ],
+      "investors": [
+        {
+          "name": "Vertical accelerator",
+          "url": "http://www.vertical.vc/",
+          "description":
+            "Vertical The Health Accelerator offers investment and consulting services to its clients. It was founded in 2015 by Paolo Borella, Sebastian Gianelli, Christian Lindholm, and Kenneth Salonius and is based in Espoo.",
+          "type": "organization"
+        }
+      ],
+      "domain": "practigame.com",
+      "trends": {
+        "trend-organization-magnitude": 0.3,
+        "trend-person-beta": 0.5,
+        "trend": 0.5395,
+        "trend-person-magnitude": 0.819,
+        "trend-organization-beta": 0.543
+      },
+      "person_ids": ["693133"],
+      "origin": "CRUNCHBASE",
+      "predictions": {
+        "inreachventures": {
+          "never": 0.10221685552523668,
+          "contact": 0.12543702998578055,
+          "not_now": 0.7723461144889828
+        }
+      },
+      "raw_predictions": {
+        "inreachventures": {
+          "never": 0.09379243328039921,
+          "contact": 0.1150988670643272,
+          "not_now": 0.7086915464220915
+        }
+      },
+      "classification": { "inreachventures": "not_now" },
+      "requires_more_info": false,
+      "is_complete": true,
+      "highlights": ["trend"]
+    },
+    {
+      "id": "693398",
+      "name": "chatchamp",
+      "created_at": 1502460648997,
+      "updated_at": 1502461086367,
+      "ml_updated_at": { "inreachventures": 1502461085046 },
+      "description":
+        "chatchamp ist eine Messenger Marketing LÃ¶sung fÃ¼r Facebook",
+      "short_description": "messenger marketing for business",
+      "founded_on": 1502434077000,
+      "homepage_url": "https://www.chatchamp.io",
+      "num_employees_max": 10,
+      "num_employees_min": 1,
+      "image_url":
+        "https://d1qb2nb5cznatu.cloudfront.net/startups/i/4497929-0c4818f468f532eaa0d8d1df66e1cdb9-medium_jpg.jpg?buster=1502434441",
+      "source_refs": {
+        "ANGELLIST": ["4497929"],
+        "OPENGRAPH": ["598dbaf407efcb0b00a711d2"]
+      },
+      "locations": [
+        { "city": "Munich", "country": "Germany", "continent": "Europe" }
+      ],
+      "domain": "chatchamp.io",
+      "trends": {
+        "trend-organization-magnitude": 0.29,
+        "trend-person-beta": 0.5,
+        "trend": 0.35375,
+        "trend-person-magnitude": 0.0,
+        "trend-organization-beta": 0.642
+      },
+      "person_ids": ["693399", "693400", "693401"],
+      "origin": "ANGELLIST",
+      "tags": ["Mobile Advertising", "Social Media Marketing", "Advertising"],
+      "predictions": {
+        "inreachventures": {
+          "never": 0.44676003766357725,
+          "contact": 0.039742251796936766,
+          "not_now": 0.5134977105394861
+        }
+      },
+      "raw_predictions": {
+        "inreachventures": {
+          "never": 0.40517256592004863,
+          "contact": 0.03604277190998704,
+          "not_now": 0.4656978409739175
+        }
+      },
+      "classification": { "inreachventures": "not_now" },
+      "requires_more_info": false,
+      "is_complete": true,
+      "highlights": ["trend"]
+    },
+    {
+      "id": "692840",
+      "name": "Society for Computers and Law",
+      "created_at": 1502435116442,
+      "updated_at": 1502451156429,
+      "ml_updated_at": { "inreachventures": 1502440859827 },
+      "description":
+        "SCL's mission is to inform and educate legal and technology professionals, academics and students and the wider audience on the impact of IT on law and legal practice through the promotion of best practice, thought leadership, and the fostering of a global tech law community.\r\n\r\nSCL is a registered educational charity.",
+      "short_description":
+        "Society for Computers and Law is a registered educational charity.",
+      "founded_on": 1502433250000,
+      "primary_role": "group",
+      "is_closed": false,
+      "homepage_url": "https://www.scl.org/",
+      "total_funding_usd": 0,
+      "number_of_investments": 0,
+      "also_known_as": ["SCL - The IT Law Community"],
+      "image_url":
+        "http://public.crunchbase.com/t_api_images/v1502433154/ehof8uyin7oisatofkkw.png",
+      "source_refs": {
+        "CRUNCHBASE": ["society-for-computers-and-law"],
+        "OPENGRAPH": ["598d6b7007efcb0b00a7117d"]
+      },
+      "locations": [
+        {
+          "latitude": 51.4334843,
+          "longitude": -2.5655955,
+          "city": "Bristol",
+          "country": "United Kingdom",
+          "name": "Headquarters",
+          "street1": "338 Wells Road",
+          "postal_code": "BS4 2QL",
+          "continent": "Europe"
+        }
+      ],
+      "domain": "scl.org",
+      "trends": {
+        "trend-organization-magnitude": 0.857,
+        "trend-person-beta": 0.5,
+        "trend": 0.6245,
+        "trend-person-magnitude": 0.998,
+        "trend-organization-beta": 0.127
+      },
+      "person_ids": ["692841"],
+      "origin": "CRUNCHBASE",
+      "user_decisions": {
+        "inreachventures": {
+          "adam@inreachventures.com": {
+            "id": "692840-inreachventures-adam@inreachventures.com",
+            "user_id": "adam@inreachventures.com",
+            "client": "inreachventures",
+            "organization_id": "692840",
+            "state": "never",
+            "created_at": 1502451156404,
+            "updated_at": 1502451156404,
+            "source": "dig",
+            "is_final": true
+          }
+        }
+      },
+      "predictions": {
+        "inreachventures": {
+          "never": 0.9325316812970934,
+          "contact": 0.02656080438845822,
+          "not_now": 0.04090751431444839
+        }
+      },
+      "raw_predictions": {
+        "inreachventures": {
+          "never": 0.9391206325143691,
+          "contact": 0.026748473985016834,
+          "not_now": 0.041196552876508814
+        }
+      },
+      "classification": { "inreachventures": "never" },
+      "requires_more_info": false,
+      "is_complete": true,
+      "highlights": ["trend"]
+    },
+    {
+      "id": "692875",
+      "name": "ServerChoice",
+      "created_at": 1502435199271,
+      "updated_at": 1502435450732,
+      "ml_updated_at": { "inreachventures": 1502435440248 },
+      "description":
+        "We've been pioneering secure cloud platforms for well over a decade. Find out what sets us apart from the competition and how we can help your business today.",
+      "short_description":
+        "ServerChoice are UK providers of ultra-secure cloud hosting and colocation.",
+      "founded_on": 1502432901000,
+      "primary_role": "company",
+      "homepage_url": "https://www.serverchoice.com",
+      "role_company": true,
+      "total_funding_usd": 0,
+      "number_of_investments": 0,
+      "image_url":
+        "http://public.crunchbase.com/t_api_images/v1502432866/ad8kwqxdtvoi9vcdtkwh.png",
+      "source_refs": {
+        "CRUNCHBASE": ["serverchoice"],
+        "OPENGRAPH": ["598d5793b3c8780b00808bf8"]
+      },
+      "locations": [
+        {
+          "latitude": 51.901404,
+          "longitude": -0.203497,
+          "city": "Stevenage",
+          "country": "United Kingdom",
+          "name": "Headquarters",
+          "continent": "Europe"
+        }
+      ],
+      "domain": "serverchoice.com",
+      "trends": {
+        "trend-organization-magnitude": 0.634,
+        "trend-person-beta": 0.5,
+        "trend": 0.59375,
+        "trend-person-magnitude": 0.964,
+        "trend-organization-beta": 0.264
+      },
+      "person_ids": ["692881", "692877"],
+      "origin": "CRUNCHBASE",
+      "tags": ["Information Technology"],
+      "predictions": {
+        "inreachventures": {
+          "never": 0.106035719085491,
+          "contact": 0.6056263477832587,
+          "not_now": 0.2883379331312503
+        }
+      },
+      "raw_predictions": {
+        "inreachventures": {
+          "never": 0.10619004232762161,
+          "contact": 0.6065077698391065,
+          "not_now": 0.28875757704986393
+        }
+      },
+      "classification": { "inreachventures": "contact" },
+      "requires_more_info": false,
+      "is_complete": true,
+      "highlights": ["education", "trend", "serial_entrepreneur", "experience"]
+    },
+    {
+      "id": "692753",
+      "name": "Maillefer",
+      "created_at": 1502431466954,
+      "updated_at": 1502451158232,
+      "ml_updated_at": { "inreachventures": 1502437247943 },
+      "description":
+        "Maillefer is a provider of wire, cable, pipe and tube production technologies. Maillefer focuses on providing the best technical fit and value â€“ from a single component to a complete factory â€“ to match each customerâ€™s lifecycle needs.",
+      "short_description":
+        "Maillefer is a provider of wire, cable, pipe and tube production technologies.",
+      "founded_on": 1502431236000,
+      "primary_role": "company",
+      "is_closed": false,
+      "homepage_url": "https://www.maillefer.net/",
+      "role_company": true,
+      "num_employees_max": 500,
+      "num_employees_min": 251,
+      "total_funding_usd": 0,
+      "number_of_investments": 0,
+      "image_url":
+        "http://public.crunchbase.com/t_api_images/v1502431191/g4irllvqzyetuqlxhb86.png",
+      "source_refs": {
+        "CRUNCHBASE": ["maillefer"],
+        "OPENGRAPH": ["598d5d43b3c8780b00808bfb"]
+      },
+      "locations": [
+        {
+          "city": "Vantaa",
+          "country": "Finland",
+          "name": "Headquarters",
+          "street1": "EnsimmÃ¤inen savu",
+          "street2": "P.O.Box 176",
+          "postal_code": "01511",
+          "continent": "Europe"
+        }
+      ],
+      "domain": "maillefer.net",
+      "trends": {
+        "trend-organization-magnitude": 0.429,
+        "trend-person-beta": 0.5,
+        "trend": 0.588,
+        "trend-person-magnitude": 0.934,
+        "trend-organization-beta": 0.493
+      },
+      "person_ids": [
+        "692960",
+        "692961",
+        "692962",
+        "692963",
+        "692964",
+        "692958",
+        "692959"
+      ],
+      "origin": "CRUNCHBASE",
+      "tags": ["Industrial Engineering"],
+      "user_decisions": {
+        "inreachventures": {
+          "adam@inreachventures.com": {
+            "id": "692753-inreachventures-adam@inreachventures.com",
+            "user_id": "adam@inreachventures.com",
+            "client": "inreachventures",
+            "organization_id": "692753",
+            "state": "never",
+            "created_at": 1502451158074,
+            "updated_at": 1502451158074,
+            "source": "dig",
+            "is_final": true
+          }
+        }
+      },
+      "predictions": {
+        "inreachventures": {
+          "never": 0.8421925534206813,
+          "contact": 0.08208870656318101,
+          "not_now": 0.07571874001613763
+        }
+      },
+      "raw_predictions": {
+        "inreachventures": {
+          "never": 0.8854446187638537,
+          "contact": 0.08630449556034839,
+          "not_now": 0.07960738980006037
+        }
+      },
+      "classification": { "inreachventures": "never" },
+      "requires_more_info": false,
+      "is_complete": true,
+      "highlights": ["keywords", "trend", "serial_entrepreneur"]
+    },
+    {
+      "id": "692750",
+      "name": "We did it",
+      "created_at": 1502431464946,
+      "updated_at": 1502447168174,
+      "ml_updated_at": { "inreachventures": 1502447155083 },
+      "description":
+        "We Did ItÂ® is the world's first mobile tool for active couples therapy. It helps couples solve problems in a totally new way, by themselves without books, lectures or therapy sessions.\nEffective method with 96% of users reporting increased happiness.",
+      "short_description":
+        "We Did It is the worldâ€™s first mobile tool for active couples therapy.",
+      "founded_on": 1502430963000,
+      "primary_role": "company",
+      "is_closed": false,
+      "homepage_url": "http://www.wediditmethod.com/",
+      "role_company": true,
+      "total_funding_usd": 0,
+      "number_of_investments": 0,
+      "image_url":
+        "http://public.crunchbase.com/t_api_images/v1502430950/f41bminjp5ui9yt0ws5n.png",
+      "source_refs": {
+        "CRUNCHBASE": ["we-did-it"],
+        "OPENGRAPH": ["598d48edb3c8780b00808bf4"]
+      },
+      "locations": [
+        {
+          "latitude": 60.45951609999999,
+          "longitude": 26.9338784,
+          "city": "Kotka",
+          "country": "Finland",
+          "name": "Headquarters",
+          "street1": "Heikinkatu 7",
+          "street2": "FI-48100",
+          "continent": "Europe"
+        }
+      ],
+      "investors": [
+        {
+          "name": "Vertical accelerator",
+          "url": "http://www.vertical.vc/",
+          "description":
+            "Vertical The Health Accelerator offers investment and consulting services to its clients. It was founded in 2015 by Paolo Borella, Sebastian Gianelli, Christian Lindholm, and Kenneth Salonius and is based in Espoo.",
+          "type": "organization"
+        }
+      ],
+      "domain": "wediditmethod.com",
+      "trends": {
+        "trend-organization-magnitude": 0.22,
+        "trend-person-beta": 0.0,
+        "trend": 0.1905,
+        "trend-person-magnitude": 0.0,
+        "trend-organization-beta": 0.543
+      },
+      "origin": "CRUNCHBASE",
+      "predictions": {
+        "inreachventures": {
+          "never": 0.3746260472793389,
+          "contact": 0.011516891269904725,
+          "not_now": 0.6138570614507564
+        }
+      },
+      "raw_predictions": {
+        "inreachventures": {
+          "never": 0.36364442940150343,
+          "contact": 0.011179290347637918,
+          "not_now": 0.5958627342291987
+        }
+      },
+      "classification": { "inreachventures": "not_now" },
+      "requires_more_info": false,
+      "is_complete": true
+    },
+    {
+      "id": "692774",
+      "name": "Roobar",
+      "created_at": 1502431528631,
+      "updated_at": 1502463423802,
+      "ml_updated_at": { "inreachventures": 1502437247931 },
+      "description":
+        "Roobar has a simple and delicious recipe that offers a healthy choice for everyone. They created Roobar as an alternative snack for their own family and continue to produce it with the very same care and with no compromise.",
+      "short_description":
+        "Roobar is organic vegan awesomeness with no added sugar and no gluten.",
+      "founded_on": 1502430623000,
+      "primary_role": "company",
+      "is_closed": false,
+      "homepage_url": "https://www.roobar.com",
+      "role_company": true,
+      "total_funding_usd": 0,
+      "number_of_investments": 0,
+      "image_url":
+        "http://public.crunchbase.com/t_api_images/v1502430607/s5qejlykq9y7tjorimsj.png",
+      "source_refs": {
+        "CRUNCHBASE": ["roobar"],
+        "OPENGRAPH": ["598d5d7d07efcb0b00a7116d"]
+      },
+      "locations": [
+        {
+          "city": "Sofia",
+          "country": "Bulgaria",
+          "name": "Headquarters",
+          "street1": "7 Amsterdam str.",
+          "continent": "Europe"
+        }
+      ],
+      "domain": "roobar.com",
+      "trends": {
+        "trend-organization-magnitude": 0.771,
+        "trend-person-beta": 0.5,
+        "trend": 0.5015000000000001,
+        "trend-person-magnitude": 0.753,
+        "trend-organization-beta": 0.0
+      },
+      "person_ids": ["692970"],
+      "origin": "CRUNCHBASE",
+      "tags": ["Food and Beverage"],
+      "user_decisions": {
+        "inreachventures": {
+          "adam@inreachventures.com": {
+            "id": "692774-inreachventures-adam@inreachventures.com",
+            "user_id": "adam@inreachventures.com",
+            "client": "inreachventures",
+            "organization_id": "692774",
+            "state": "never",
+            "created_at": 1502463423757,
+            "updated_at": 1502463423757,
+            "source": "dig",
+            "is_final": true
+          }
+        }
+      },
+      "predictions": {
+        "inreachventures": {
+          "never": 0.9604143952523696,
+          "contact": 0.015899905626959032,
+          "not_now": 0.023685699120671477
+        }
+      },
+      "raw_predictions": {
+        "inreachventures": {
+          "never": 0.9684133053357054,
+          "contact": 0.01603232962650784,
+          "not_now": 0.023882967902213857
+        }
+      },
+      "classification": { "inreachventures": "never" },
+      "requires_more_info": false,
+      "is_complete": true
+    },
+    {
+      "id": "692790",
+      "name": "Aegon Ireland",
+      "created_at": 1502431586543,
+      "updated_at": 1502451167923,
+      "ml_updated_at": { "inreachventures": 1502431843969 },
+      "description":
+        "Aegon Ireland plc. offers investment services. The company provides wealth management portfolio, flexible investment plan, higher net worth investments, inheritance tax planning, corporate investments, retirement planning, and secure lifetime income plan. Aegon Ireland serves customers in Ireland and the United Kingdom.",
+      "short_description": "Aegon Ireland offers investment services.",
+      "founded_on": 1502428160000,
+      "primary_role": "company",
+      "is_closed": false,
+      "homepage_url": "https://www.aegon.ie/",
+      "num_employees_max": 500,
+      "num_employees_min": 251,
+      "total_funding_usd": 0,
+      "number_of_investments": 0,
+      "image_url":
+        "http://public.crunchbase.com/t_api_images/v1502428131/ufrsfbpyrbpqoh9tdmtl.jpg",
+      "source_refs": {
+        "CRUNCHBASE": ["aegon-ireland"],
+        "OPENGRAPH": ["598d4966b3c8780b00808bf6"]
+      },
+      "locations": [
+        {
+          "latitude": 53.3483108,
+          "longitude": -6.250515,
+          "city": "Dublin",
+          "country": "Ireland",
+          "name": "Headquarters",
+          "street1": "2nd Floor, IFSC House",
+          "street2": "Custom House Quay",
+          "continent": "Europe"
+        }
+      ],
+      "domain": "aegon.ie",
+      "trends": {
+        "trend-organization-magnitude": 0.579,
+        "trend-person-beta": 0.5,
+        "trend": 0.53175,
+        "trend-person-magnitude": 0.998,
+        "trend-organization-beta": 0.042
+      },
+      "person_ids": ["692800"],
+      "origin": "CRUNCHBASE",
+      "tags": ["Insurance"],
+      "user_decisions": {
+        "inreachventures": {
+          "adam@inreachventures.com": {
+            "id": "692790-inreachventures-adam@inreachventures.com",
+            "user_id": "adam@inreachventures.com",
+            "client": "inreachventures",
+            "organization_id": "692790",
+            "state": "never",
+            "created_at": 1502451167860,
+            "updated_at": 1502451167860,
+            "source": "dig",
+            "is_final": true
+          }
+        }
+      },
+      "predictions": {
+        "inreachventures": {
+          "never": 0.9845951252915662,
+          "contact": 0.002540425917141203,
+          "not_now": 0.012864448791292478
+        }
+      },
+      "raw_predictions": {
+        "inreachventures": {
+          "never": 0.9846225830547827,
+          "contact": 0.0025404967629249265,
+          "not_now": 0.01286480754686596
+        }
+      },
+      "classification": { "inreachventures": "never" },
+      "requires_more_info": false,
+      "is_complete": true,
+      "highlights": ["keywords", "trend", "experience"]
+    },
+    {
+      "id": "692717",
+      "name": "Source Guardian",
+      "created_at": 1502427867718,
+      "updated_at": 1502448175961,
+      "ml_updated_at": { "inreachventures": 1502433649987 },
+      "description":
+        "SourceGuardian is encryption software for PHP that allows you to quickly and securely encode and encrypt your PHP files to protect not only your intellectual property, but also sensitive information such as database passwords. \r\n\r\nSourceGuardian enables the time limiting of files as well as locking files to a particular machine or IP address and also includes its own in-built licensing system.",
+      "short_description":
+        "SourceGuardian is encryption software for PHP that allows you to quickly and securely encode and encrypt your PHP files .",
+      "founded_on": 1502426564000,
+      "primary_role": "company",
+      "is_closed": false,
+      "homepage_url": "https://www.sourceguardian.com/",
+      "total_funding_usd": 0,
+      "number_of_investments": 0,
+      "image_url":
+        "http://public.crunchbase.com/t_api_images/v1502426523/gwezwp0q0uqecdiyei2f.png",
+      "source_refs": {
+        "CRUNCHBASE": ["source-guardian"],
+        "OPENGRAPH": ["598d3af5b3c8780b00808bde"]
+      },
+      "locations": [
+        {
+          "latitude": 54.885179,
+          "longitude": -1.70258,
+          "city": "Durham",
+          "country": "United Kingdom",
+          "name": "Headquarters",
+          "street1": "Office S14",
+          "street2": "Tanfield Lea Business Centre Stanley County",
+          "postal_code": "DH9 9DB",
+          "continent": "Europe"
+        }
+      ],
+      "domain": "sourceguardian.com",
+      "trends": {
+        "trend-organization-magnitude": 0.866,
+        "trend-person-beta": 0.0,
+        "trend": 0.46225,
+        "trend-person-magnitude": 0.0,
+        "trend-organization-beta": 0.999
+      },
+      "origin": "CRUNCHBASE",
+      "tags": ["Service Industry", "Information Technology"],
+      "predictions": {
+        "inreachventures": {
+          "never": 0.11027245319748018,
+          "contact": 0.024916614701924467,
+          "not_now": 0.8648109321005953
+        }
+      },
+      "raw_predictions": {
+        "inreachventures": {
+          "never": 0.10655895780339898,
+          "contact": 0.024077531764629238,
+          "not_now": 0.835687870810253
+        }
+      },
+      "classification": { "inreachventures": "not_now" },
+      "requires_more_info": false,
+      "is_complete": true
+    },
+    {
+      "id": "692676",
+      "name": "Particl",
+      "created_at": 1502416883045,
+      "updated_at": 1502417438757,
+      "ml_updated_at": { "inreachventures": 1502417432670 },
+      "description":
+        "Particl is an open source, decentralized privacy platform. Built for global person to person and business to person eCommerce.",
+      "short_description": "Shop Your Local World",
+      "founded_on": 1502403101000,
+      "homepage_url": "https://particl.io",
+      "image_url":
+        "https://d1qb2nb5cznatu.cloudfront.net/startups/i/4496437-171a1c2220c339d6c37ce895a5ab893d-medium_jpg.jpg?buster=1502403100",
+      "source_refs": {
+        "OPENGRAPH": ["598d0ff807efcb0b00a7112b"],
+        "ANGELLIST": ["4496437"]
+      },
+      "locations": [
+        { "city": "Zug", "country": "Switzerland", "continent": "Europe" }
+      ],
+      "domain": "particl.io",
+      "trends": {
+        "trend-organization-magnitude": 0.915,
+        "trend-person-beta": 0.5,
+        "trend": 0.552,
+        "trend-person-magnitude": 0.806,
+        "trend-organization-beta": 0.0
+      },
+      "person_ids": ["692677"],
+      "origin": "ANGELLIST",
+      "tags": ["Privacy", "E-Commerce", "Blockchains", "Distributed Systems"],
+      "predictions": {
+        "inreachventures": {
+          "never": 0.04602427709941703,
+          "contact": 0.2563647456381091,
+          "not_now": 0.6976109772624739
+        }
+      },
+      "raw_predictions": {
+        "inreachventures": {
+          "never": 0.04399964510671963,
+          "contact": 0.24508712655248047,
+          "not_now": 0.6669227059405459
+        }
+      },
+      "classification": { "inreachventures": "not_now" },
+      "requires_more_info": false,
+      "is_complete": true,
+      "highlights": ["trend"]
+    },
+    {
+      "id": "692673",
+      "name": "Migacore Technologies",
+      "created_at": 1502416881933,
+      "updated_at": 1502417437959,
+      "ml_updated_at": { "inreachventures": 1502417432670 },
+      "description":
+        "We are an early stage data science startup focusing on bringing accurate demand forecasting for travel providers to improve revenue and increase yield. We leverage unstructured data around the web to measure intent for travel.",
+      "short_description": "Demand Forecasting for Travel Providers",
+      "founded_on": 1502398568000,
+      "homepage_url": "https://www.migacore.com",
+      "num_employees_max": 10,
+      "num_employees_min": 1,
+      "image_url":
+        "https://d1qb2nb5cznatu.cloudfront.net/startups/i/4496121-8c656810db41648b363626ce3da85ec8-medium_jpg.jpg?buster=1502398568",
+      "source_refs": {
+        "OPENGRAPH": ["598d0ff407efcb0b00a7112a"],
+        "ANGELLIST": ["4496121"]
+      },
+      "locations": [
+        { "city": "London", "country": "United Kingdom", "continent": "Europe" }
+      ],
+      "domain": "migacore.com",
+      "trends": {
+        "trend-organization-magnitude": 0.296,
+        "trend-person-beta": 0.5,
+        "trend": 0.31475,
+        "trend-person-magnitude": 0.0,
+        "trend-organization-beta": 0.456
+      },
+      "person_ids": ["692674", "692675"],
+      "origin": "ANGELLIST",
+      "tags": [
+        "Travel",
+        "Travel & Tourism",
+        "Yield Management ",
+        "Machine Learning"
+      ],
+      "predictions": {
+        "inreachventures": {
+          "never": 0.07417013259248807,
+          "contact": 0.046992151197363156,
+          "not_now": 0.8788377162101488
+        }
+      },
+      "raw_predictions": {
+        "inreachventures": {
+          "never": 0.07098326387712618,
+          "contact": 0.04497303903881755,
+          "not_now": 0.8410766886135247
+        }
+      },
+      "classification": { "inreachventures": "not_now" },
+      "requires_more_info": false,
+      "is_complete": true,
+      "highlights": ["trend", "experience"]
+    },
+    {
+      "id": "692415",
+      "name": "HipMenu",
+      "created_at": 1502395510811,
+      "updated_at": 1502400788577,
+      "ml_updated_at": { "inreachventures": 1502400786622 },
+      "description":
+        "HipMenu builds technology that helps consumers find their next meal and have it delivered to their home or office.",
+      "short_description":
+        "HipMenu builds technology that helps consumers find their next meal and have it delivered to their home or office.",
+      "founded_on": 1502393077000,
+      "primary_role": "company",
+      "is_closed": false,
+      "homepage_url": "https://www.hipmenu.ro",
+      "total_funding_usd": 0,
+      "number_of_investments": 0,
+      "image_url":
+        "http://public.crunchbase.com/t_api_images/v1502392997/ulzy9zdp7dmkzghyjsig.png",
+      "source_refs": {
+        "CRUNCHBASE": ["hipmenu"],
+        "OPENGRAPH": ["598cbc7d07efcb0b00a710fe"]
+      },
+      "locations": [
+        {
+          "latitude": 46.77614819999999,
+          "longitude": 23.6041045,
+          "city": "Cluj-napoca",
+          "country": "Romania",
+          "name": "Headquarter",
+          "continent": "Europe"
+        }
+      ],
+      "domain": "hipmenu.ro",
+      "trends": {
+        "trend-organization-magnitude": 0.911,
+        "trend-person-beta": 0.5,
+        "trend": 0.59875,
+        "trend-person-magnitude": 0.997,
+        "trend-organization-beta": 0.0
+      },
+      "person_ids": ["692521", "692522", "692523"],
+      "origin": "CRUNCHBASE",
+      "tags": ["Food and Beverage", "Food Delivery", "Restaurants"],
+      "predictions": {
+        "inreachventures": {
+          "never": 0.2125393210556473,
+          "contact": 0.23004637266160793,
+          "not_now": 0.5574143062827448
+        }
+      },
+      "raw_predictions": {
+        "inreachventures": {
+          "never": 0.21226110153241484,
+          "contact": 0.22974523595050256,
+          "not_now": 0.5566846363949958
+        }
+      },
+      "classification": { "inreachventures": "not_now" },
+      "requires_more_info": false,
+      "is_complete": true,
+      "highlights": ["trend", "experience"]
+    },
+    {
+      "id": "692597",
+      "name": "Musika",
+      "created_at": 1502404874624,
+      "updated_at": 1502405279701,
+      "ml_updated_at": { "inreachventures": 1502405278952 },
+      "description":
+        "Helping musicians to find other musicians to allow them create great music",
+      "short_description": "Global growth for musicians",
+      "founded_on": 1502391949000,
+      "homepage_url": "http://musika.io",
+      "image_url":
+        "https://d1qb2nb5cznatu.cloudfront.net/startups/i/4495565-c02a92d7cb30d5df1f8e310f9e353ba6-medium_jpg.jpg?buster=1502391948",
+      "source_refs": { "ANGELLIST": ["4495565"] },
+      "locations": [
+        { "city": "Amsterdam", "country": "Netherlands", "continent": "Europe" }
+      ],
+      "domain": "musika.io",
+      "trends": {
+        "trend-organization-magnitude": 0.0,
+        "trend-person-beta": 0.5,
+        "trend": 0.25,
+        "trend-person-magnitude": 0.0,
+        "trend-organization-beta": 0.5
+      },
+      "person_ids": ["692598"],
+      "origin": "ANGELLIST",
+      "tags": ["Social Media", "Music"],
+      "predictions": {
+        "inreachventures": {
+          "never": 0.17888723898274583,
+          "contact": 0.053326621961875285,
+          "not_now": 0.7677861390553788
+        }
+      },
+      "raw_predictions": {
+        "inreachventures": {
+          "never": 0.18275782202835228,
+          "contact": 0.054480450038259236,
+          "not_now": 0.7843987271269406
+        }
+      },
+      "classification": { "inreachventures": "not_now" },
+      "requires_more_info": false,
+      "is_complete": true
+    },
+    {
+      "id": "692599",
+      "name": "Musika",
+      "created_at": 1502404875123,
+      "updated_at": 1502405280055,
+      "ml_updated_at": { "inreachventures": 1502405278952 },
+      "short_description": "Global growth for musicians",
+      "founded_on": 1502391689000,
+      "homepage_url": "http://www.musika.io",
+      "num_employees_max": 10,
+      "num_employees_min": 1,
+      "image_url":
+        "https://d1qb2nb5cznatu.cloudfront.net/startups/i/4495545-254c12d5681e56faf41c06d5f06e09c1-medium_jpg.jpg?buster=1502391689",
+      "source_refs": { "ANGELLIST": ["4495545"] },
+      "locations": [
+        { "city": "Amsterdam", "country": "Netherlands", "continent": "Europe" }
+      ],
+      "domain": "musika.io",
+      "trends": {
+        "trend-organization-magnitude": 0.0,
+        "trend-person-beta": 0.5,
+        "trend": 0.25,
+        "trend-person-magnitude": 0.0,
+        "trend-organization-beta": 0.5
+      },
+      "person_ids": ["692598"],
+      "origin": "ANGELLIST",
+      "tags": ["Music"],
+      "predictions": {
+        "inreachventures": {
+          "never": 0.8676365300419535,
+          "contact": 0.013781123475844509,
+          "not_now": 0.118582346482202
+        }
+      },
+      "raw_predictions": {
+        "inreachventures": {
+          "never": 0.8707250960117168,
+          "contact": 0.013830180779817798,
+          "not_now": 0.11900446955710514
+        }
+      },
+      "classification": { "inreachventures": "never" },
+      "requires_more_info": false,
+      "is_complete": true
+    },
+    {
+      "id": "692290",
+      "name": "bitfly",
+      "created_at": 1502389341690,
+      "updated_at": 1502448504838,
+      "ml_updated_at": { "inreachventures": 1502448503687 },
+      "description":
+        "We â¤ working with blockchain based technologies like Ethereum or Bitcoin. By developing easy to use services like blockchain explorers and mining solutions we lower the entry barrier and foster mass adoption.",
+      "short_description": "Innovative blockchain services",
+      "founded_on": 1502386378000,
+      "homepage_url": "http://www.bitfly.at",
+      "image_url":
+        "https://d1qb2nb5cznatu.cloudfront.net/startups/i/4495112-884df7b19e425b896092fd411cae1b80-medium_jpg.jpg?buster=1502386718",
+      "source_refs": {
+        "OPENGRAPH": ["598ca47a07efcb0b00a710ef"],
+        "ANGELLIST": ["4495112"]
+      },
+      "locations": [
+        { "city": "Vienna", "country": "Austria", "continent": "Europe" }
+      ],
+      "domain": "bitfly.at",
+      "trends": {
+        "trend-organization-magnitude": 0.905,
+        "trend-person-beta": 0.5,
+        "trend": 0.598,
+        "trend-person-magnitude": 0.0,
+        "trend-organization-beta": 1.0
+      },
+      "person_ids": ["693143", "693135", "692291"],
+      "origin": "ANGELLIST",
+      "tags": ["Cryptocurrency", "Blockchains"],
+      "predictions": {
+        "inreachventures": {
+          "never": 0.245191847609386,
+          "contact": 0.17558184890560025,
+          "not_now": 0.5792263034850138
+        }
+      },
+      "raw_predictions": {
+        "inreachventures": {
+          "never": 0.23689456844663542,
+          "contact": 0.16964016841954035,
+          "not_now": 0.5596253159918257
+        }
+      },
+      "classification": { "inreachventures": "not_now" },
+      "requires_more_info": false,
+      "is_complete": true
+    },
+    {
+      "id": "692277",
+      "name": "Abel Delft",
+      "created_at": 1502389324737,
+      "updated_at": 1502447162274,
+      "ml_updated_at": { "inreachventures": 1502447155098 },
+      "description": "Development of smart wireless sensor systems for IoT.",
+      "short_description":
+        "Development of smart wireless sensor systems for IoT.",
+      "founded_on": 1502382347000,
+      "homepage_url": "http://www.abeldelft.nl",
+      "num_employees_max": 10,
+      "num_employees_min": 1,
+      "image_url":
+        "https://d1qb2nb5cznatu.cloudfront.net/startups/i/4494747-6b5f76b7e588b25ff785ec398808cad5-medium_jpg.jpg?buster=1502382347",
+      "source_refs": {
+        "OPENGRAPH": ["598ca45407efcb0b00a710e9"],
+        "ANGELLIST": ["4494747"]
+      },
+      "locations": [
+        { "city": "Delft", "country": "Netherlands", "continent": "Europe" }
+      ],
+      "domain": "abeldelft.nl",
+      "trends": {
+        "trend-organization-magnitude": 0.309,
+        "trend-person-beta": 0.5,
+        "trend": 0.5655,
+        "trend-person-magnitude": 0.996,
+        "trend-organization-beta": 0.45
+      },
+      "person_ids": ["692278", "692600"],
+      "origin": "ANGELLIST",
+      "tags": ["Wireless", "Smart City", "Sensors", "Internet of Things"],
+      "predictions": {
+        "inreachventures": {
+          "never": 0.18442656556609865,
+          "contact": 0.1133492507665014,
+          "not_now": 0.7022241836673999
+        }
+      },
+      "raw_predictions": {
+        "inreachventures": {
+          "never": 0.16857404342824658,
+          "contact": 0.10360623190384786,
+          "not_now": 0.6418639834806604
+        }
+      },
+      "classification": { "inreachventures": "not_now" },
+      "requires_more_info": false,
+      "is_complete": true,
+      "highlights": ["trend"]
+    },
+    {
+      "id": "692282",
+      "name": "Invisible Homes",
+      "created_at": 1502389328567,
+      "updated_at": 1502389530701,
+      "ml_updated_at": { "inreachventures": 1502389528723 },
+      "description":
+        "Invisible Homes is an alternative to the status quo, which asks sellers to publicly list their properties so that buyers can find them. Instead, we ask buyers to list their searches, and sellers who are not on the public market find them\n\nWe are aimed at the mass market, although uptake is likely to be faster at the higher level to start with. Agents and individuals will be able to use the site.",
+      "short_description": "Off market selling platform for residential market",
+      "founded_on": 1502373331000,
+      "homepage_url": "http://www.invisblehomes.co.uk",
+      "num_employees_max": 10,
+      "num_employees_min": 1,
+      "image_url":
+        "https://d1qb2nb5cznatu.cloudfront.net/startups/i/4494011-4e2c147d82beb399847fd1303def0ac1-medium_jpg.jpg?buster=1502373330",
+      "source_refs": { "ANGELLIST": ["4494011"] },
+      "locations": [
+        { "city": "London", "country": "United Kingdom", "continent": "Europe" }
+      ],
+      "domain": "invisblehomes.co.uk",
+      "trends": {
+        "trend-organization-magnitude": 0.0,
+        "trend-person-beta": 0.5,
+        "trend": 0.4375,
+        "trend-person-magnitude": 0.75,
+        "trend-organization-beta": 0.5
+      },
+      "person_ids": ["230170"],
+      "origin": "ANGELLIST",
+      "tags": ["Residential Real Estate"],
+      "predictions": {
+        "inreachventures": {
+          "never": 0.14709447399236314,
+          "contact": 0.01420270277137526,
+          "not_now": 0.8387028232362617
+        }
+      },
+      "raw_predictions": {
+        "inreachventures": {
+          "never": 0.1442763546218381,
+          "contact": 0.01393059933534883,
+          "not_now": 0.8226344788034256
+        }
+      },
+      "classification": { "inreachventures": "not_now" },
+      "requires_more_info": false,
+      "is_complete": true,
+      "highlights": ["serial_entrepreneur"]
+    },
+    {
+      "id": "691908",
+      "name": "Creaholic",
+      "created_at": 1502370697294,
+      "updated_at": 1502376485300,
+      "ml_updated_at": { "inreachventures": 1502376483858 },
+      "description":
+        "Creaholic provides concept generation, technology and engineering, business and management, design development, and IP creation services.\r\n\r\nTheir core mission is to be professional inventors for international clients. To accomplish that, they need a flexible, capable, multidisciplinary team: unique experts who can also work with others. Theyâ€™re proud that the team theyâ€™ve assembled has the skills and experience to support their enormous range of projects. \r\n\r\nFor over 30 years, their approach to invention has been guided by a unique philosophy. They think of the journey from idea to business in terms of the three phases of matter: gas, liquid, solid.",
+      "short_description":
+        "Creaholic provides concept generation, technology and engineering, business and management, design development, and IP creation services.",
+      "founded_on": 1502368524000,
+      "primary_role": "company",
+      "is_closed": false,
+      "homepage_url": "https://www.creaholic.com/",
+      "role_company": true,
+      "total_funding_usd": 0,
+      "number_of_investments": 0,
+      "image_url":
+        "http://public.crunchbase.com/t_api_images/v1502368394/neqjeamblxpvuxijfidj.png",
+      "source_refs": {
+        "CRUNCHBASE": ["creaholic"],
+        "OPENGRAPH": ["598c6f9fb3c8780b00808b17"]
+      },
+      "locations": [
+        {
+          "latitude": 47.1333247,
+          "longitude": 7.2514343,
+          "city": "Biel",
+          "country": "Switzerland",
+          "name": "Headquarters",
+          "street1": "Rue Centrale 115",
+          "postal_code": "2503",
+          "continent": "Europe"
+        }
+      ],
+      "domain": "creaholic.com",
+      "trends": {
+        "trend-organization-magnitude": 0.513,
+        "trend-person-beta": 0.5,
+        "trend": 0.609,
+        "trend-person-magnitude": 0.995,
+        "trend-organization-beta": 0.428
+      },
+      "person_ids": ["691909"],
+      "origin": "CRUNCHBASE",
+      "predictions": {
+        "inreachventures": {
+          "never": 0.9285554146214005,
+          "contact": 0.024556692804964825,
+          "not_now": 0.046887892573634814
+        }
+      },
+      "raw_predictions": {
+        "inreachventures": {
+          "never": 0.9437267678957227,
+          "contact": 0.024957916314005516,
+          "not_now": 0.047653978012717764
+        }
+      },
+      "classification": { "inreachventures": "never" },
+      "requires_more_info": false,
+      "is_complete": true,
+      "highlights": ["trend", "experience"]
+    },
+    {
+      "id": "691837",
+      "name": "KG",
+      "created_at": 1502367130971,
+      "updated_at": 1502367489924,
+      "ml_updated_at": { "inreachventures": 1502367484217 },
+      "description":
+        "KG Provides a hardware-enabled software solution for the next generation of automotive training.",
+      "short_description":
+        "KG Provides a hardware-enabled software solution for the next generation of automotive training.",
+      "founded_on": 1502364245000,
+      "primary_role": "company",
+      "is_closed": false,
+      "homepage_url": "http://www.kgprotech.com/",
+      "role_company": true,
+      "total_funding_usd": 0,
+      "number_of_investments": 0,
+      "image_url":
+        "http://public.crunchbase.com/t_api_images/v1502364241/c9ehjvvf0upfhtl366l6.png",
+      "source_refs": {
+        "CRUNCHBASE": ["kg"],
+        "OPENGRAPH": ["598c4da6b3c8780b00808af4"]
+      },
+      "locations": [
+        {
+          "latitude": 51.5228557,
+          "longitude": -0.0833628,
+          "city": "London",
+          "country": "United Kingdom",
+          "name": "Headquarters",
+          "street1": "99 Clifton Street",
+          "postal_code": "EC2A 4LG",
+          "continent": "Europe"
+        }
+      ],
+      "investors": [
+        {
+          "name": "R/GA Ventures",
+          "url": "https://ventures.rga.com/",
+          "description":
+            "At R/GA Ventures, we go beyond financial capital to connect early- and growth-stage startups with our world-class creative talent, industry-leading clients and innovative program partners.  \r\n \r\nOur flexible financing terms support companies at all stages of funding and growth. We invest  in each of our program companies at current valuations.\r\n\r\nWe match each of our startups with the right experts across our global network, providing consulting, strategy, design, copywriting, business development, brand transformation and more.\r\n\r\nWe make introductions that create value not only for our startups, but for our partners and clientsâ€”fostering an innovation exchange that makes way for pilots, partnerships and integrations.",
+          "type": "organization"
+        }
+      ],
+      "domain": "kgprotech.com",
+      "trends": {
+        "trend-organization-magnitude": 0.262,
+        "trend-person-beta": 0.5,
+        "trend": 0.32425000000000004,
+        "trend-person-magnitude": 0.0,
+        "trend-organization-beta": 0.537
+      },
+      "person_ids": ["691841", "691842"],
+      "origin": "CRUNCHBASE",
+      "predictions": {
+        "inreachventures": {
+          "never": 0.9130050911655938,
+          "contact": 0.021841910788839222,
+          "not_now": 0.06515299804556712
+        }
+      },
+      "raw_predictions": {
+        "inreachventures": {
+          "never": 0.9253943943670848,
+          "contact": 0.022138301310514603,
+          "not_now": 0.06603711167766327
+        }
+      },
+      "classification": { "inreachventures": "never" },
+      "requires_more_info": false,
+      "is_complete": true,
+      "highlights": ["serial_entrepreneur"]
+    },
+    {
+      "id": "692286",
+      "name": "ASPIRE JS",
+      "created_at": 1502389337218,
+      "updated_at": 1502441761066,
+      "ml_updated_at": { "inreachventures": 1502441756273 },
+      "description":
+        "ASPIRE looks beyond traditional methods of recruitment, CV and job spec matching. We analyse billions of gigabytes of publicly available data combined with personal information shared by candidates, to match the right company with the right talent. \n\nWith ASPIRE we introduce unparalleled level of machine learning to develop a matching algorithm that will change the way the recruitment process works. We are taking scientific approach already applied (to extent) in dating industry into recruitment market.",
+      "short_description": "Match.com for recruitment",
+      "founded_on": 1502363671000,
+      "homepage_url": "http://try.aspireapp.co/",
+      "num_employees_max": 10,
+      "num_employees_min": 1,
+      "image_url":
+        "https://d1qb2nb5cznatu.cloudfront.net/startups/i/4493478-78a1ce84c829d27a420d4acbf9c44355-medium_jpg.jpg?buster=1502365186",
+      "source_refs": {
+        "OPENGRAPH": ["598ca46707efcb0b00a710ec"],
+        "ANGELLIST": ["4493478"]
+      },
+      "locations": [
+        { "city": "London", "country": "United Kingdom", "continent": "Europe" }
+      ],
+      "domain": "aspireapp.co",
+      "trends": {
+        "trend-organization-magnitude": 0.0,
+        "trend-person-beta": 0.5,
+        "trend": 0.497,
+        "trend-person-magnitude": 0.988,
+        "trend-organization-beta": 0.5
+      },
+      "person_ids": ["690194", "692289", "267467", "690154"],
+      "origin": "ANGELLIST",
+      "tags": [
+        "Recruiting",
+        "Artificial Intelligence",
+        "Human Resources",
+        "Machine Learning"
+      ],
+      "predictions": {
+        "inreachventures": {
+          "never": 0.05773712910129744,
+          "contact": 0.4529704693206407,
+          "not_now": 0.48929240157806186
+        }
+      },
+      "raw_predictions": {
+        "inreachventures": {
+          "never": 0.05487215623094054,
+          "contact": 0.43049363117720585,
+          "not_now": 0.4650132335970301
+        }
+      },
+      "classification": { "inreachventures": "NA" },
+      "requires_more_info": false,
+      "is_complete": true,
+      "highlights": ["keywords", "trend", "serial_entrepreneur"]
+    }
+  ],
+  "total": 65955
+}
