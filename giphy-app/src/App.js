@@ -1,44 +1,47 @@
-import React ,{useEffect,useState} from 'react';
-import './App.css';
-import NavBar from "./Components/navbar/index"
-import Search from "./Components/search/index"
-import axios from "axios"
+import React, { useState } from "react";
+import { BrowserRouter, Route, Switch } from "react-router-dom";
 
+import { useDispatch, useSelector } from "react-redux";
+import NavBar from "./Components/navbar/index";
+import Search from "./Components/search/index";
+import GifContainer from "../src/Components/gifContainer/index";
+import DisplayGif from "../src/Components/displayGif/index";
+import { fetchAllGifs } from "./store/actions/count.action";
 
 function App() {
-const [users,setUsers]=useState()
-//  useEffect(() => {
-// axios.get(`https://api.giphy.com/v1/gifs/search?api_key=deokzgUjxm6QHQdp3H3aca1LSZcCpucc&q=${query}&limit=25&offset=0&rating=G&lang=en`)
-//       .then(res => {
-//         const persons = res.data;
-//         setUsers(persons);
-//        // console.log(users);
-//       })
-//  });
-const [query,setQuery]=useState("");
+	const [users, setUsers] = useState([]);
+	const [query, setQuery] = useState("");
+	let dispatch = useDispatch();
+	const {
+		countReducer: { gifs },
+	} = useSelector((state) => state);
 
-const handleChange=({target})=>{
-setQuery(target.value);
-console.log(query)
-}
+	const handleChange = ({ target }) => {
+		setQuery(target.value);
+	};
 
-const handleSubmit=()=>{
-axios.get(`https://api.giphy.com/v1/gifs/search?api_key=deokzgUjxm6QHQdp3H3aca1LSZcCpucc&q=${query}&limit=25&offset=0&rating=G&lang=en`)
-      .then(res => {
-        const persons = res.data;
-        setUsers(persons);
-        console.log(users);
-      })
+	const handleSubmit = async (e) => {
+		e.preventDefault();
+		dispatch(fetchAllGifs(query));
+		setUsers(gifs);
+	};
 
-}
+	return (
+		<BrowserRouter>
+			<div>
+				<NavBar />
+				<Search value={query} onChange={handleChange} onClick={handleSubmit} />
 
-  return (
-    <div>
-      <NavBar />
-      <Search value={query} onChange={handleChange} onClick={handleSubmit}/>
-      
-    </div>
-  );
+				<Switch>
+					<Route exact path="/">
+						<GifContainer items={users} />
+					</Route>
+
+					<Route  path="/display" component={DisplayGif} />
+				</Switch>
+			</div>
+		</BrowserRouter>
+	);
 }
 
 export default App;

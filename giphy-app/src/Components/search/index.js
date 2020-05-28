@@ -9,7 +9,7 @@ export default function SearchCard({
   isAlpha,
 }) {
   return (
-    <div className="bg-dark py-5 shadow">
+    <div className="bg-dark py-5 shadow fixed">
       <div className="container px-5 py-5">
         <input
           className="form-control mr-sm-2"
