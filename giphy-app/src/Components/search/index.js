@@ -3,8 +3,6 @@ import React from "react";
 export default function SearchCard({
 	onChange,
 	value,
-	search_len,
-	input_len,
 	onSubmit,
 }) {
 	return (
@@ -18,13 +16,6 @@ export default function SearchCard({
 					value={value}
 					onChange={onChange}
 				/>
-				<div>
-					{/* {search_len > 0 ? (
-						<p style={{ color: "#fff" }}>{search_len} Search term found</p>
-					) : search_len < 1 && input_len > 1 ? (
-						<p style={{ color: "#fff" }}>Nothing found for that record</p>
-					) : null} */}
-				</div>
 			</div>
 
 			<div className="container text-center">

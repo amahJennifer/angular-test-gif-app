@@ -1,0 +1,113 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Button Component Matches the snapshot 1`] = `
+<form
+  className="bg-dark py-5 shadow fixed"
+>
+  <div
+    className="container px-5 py-5"
+  >
+    <input
+      aria-label="Search"
+      className="form-control mr-sm-2"
+      placeholder="Search gif"
+      type="text"
+    />
+    <div />
+  </div>
+  <div
+    className="container text-center"
+  >
+    <button
+      className="px-5 text-center btn btn-outline-light"
+      type="submit"
+    >
+      Search
+    </button>
+  </div>
+</form>
+`;
+
+exports[`Search Component  1`] = `
+<form
+  className="bg-dark py-5 shadow fixed"
+>
+  <div
+    className="container px-5 py-5"
+  >
+    <input
+      aria-label="Search"
+      className="form-control mr-sm-2"
+      placeholder="Search gif"
+      type="text"
+    />
+    <div />
+  </div>
+  <div
+    className="container text-center"
+  >
+    <button
+      className="px-5 text-center btn btn-outline-light"
+      type="submit"
+    >
+      Search
+    </button>
+  </div>
+</form>
+`;
+
+exports[`Search Component Displays list of g 1`] = `
+<form
+  className="bg-dark py-5 shadow fixed"
+>
+  <div
+    className="container px-5 py-5"
+  >
+    <input
+      aria-label="Search"
+      className="form-control mr-sm-2"
+      placeholder="Search gif"
+      type="text"
+    />
+    <div />
+  </div>
+  <div
+    className="container text-center"
+  >
+    <button
+      className="px-5 text-center btn btn-outline-light"
+      type="submit"
+    >
+      Search
+    </button>
+  </div>
+</form>
+`;
+
+exports[`Search Component Matches the snapshot 1`] = `
+<form
+  className="bg-dark py-5 shadow fixed"
+>
+  <div
+    className="container px-5 py-5"
+  >
+    <input
+      aria-label="Search"
+      className="form-control mr-sm-2"
+      placeholder="Search gif"
+      type="text"
+    />
+    <div />
+  </div>
+  <div
+    className="container text-center"
+  >
+    <button
+      className="px-5 text-center btn btn-outline-light"
+      type="submit"
+    >
+      Search
+    </button>
+  </div>
+</form>
+`;
