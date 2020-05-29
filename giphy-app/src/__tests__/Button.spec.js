@@ -4,7 +4,8 @@ import Search from "../Components/search";
 import GifContainer from "../Components/gifContainer";
 import { render, unmountComponentAtNode } from "react-dom";
 import { act } from "react-dom/test-utils";
-
+import {Provider} from "react-redux";
+import store from "../store"
 let container;
 
 beforeEach(() => {
@@ -21,7 +22,7 @@ afterEach(() => {
 
 describe("Search Component", () => {
 	test("Matches the snapshot", () => {
-		const button = create(<Search />);
+		const button = create(<Provider store={store}><Search /></Provider>);
 		expect(button.toJSON()).toMatchSnapshot();
 	});
 
@@ -34,13 +35,14 @@ describe("Search Component", () => {
 
 		jest.spyOn(global, "fetch").mockImplementation(() =>
 			Promise.resolve({
-				json: () => Promise.resolve(fakeUser),
+        json: () => Promise.resolve(fakeUser),
+
 			})
 		);
 
 		// Use the asynchronous version of act to apply resolved promises
 		await act(async () => {
-			render(<GifContainer items={[]} />, container);
+			render(<Provider store={store}><GifContainer items={[]} /></Provider> , container);
 		});
 
 		// expect(container.querySelector("Joni Baez").textContent).toBe(fakeUser.name);

@@ -25,10 +25,10 @@ const DisplayGif = (props) => {
 				return item.id === id;
 			});
 
-      // set the gif on state
+			// set the gif on state
 			setGif(gifItem);
 		}
-	});
+	}, gif);
 
 	return (
 		<div className=" pt-4" style={{ marginTop: 200 }}>
